@@ -30,3 +30,19 @@
     transform: rotate(360deg);
   }
 }
+.card{
+  width: 28%;
+  margin: 20px;
+}
+.maindiv{
+  width:100%;
+  display:flex;
+  flex-wrap: wrap;
+  margin : 20px;
+}
+.bodymovie{
+  list-style: none;
+}
+.title{
+  text-align: center;
+}
